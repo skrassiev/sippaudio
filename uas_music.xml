@@ -88,7 +88,7 @@
 <!-- Play a pre-recorded PCAP file (RTP stream)                       -->
   <nop>
     <action>
-      <exec rtp_stream="bach.wav" />
+      <exec rtp_stream="bach.wav,-1,0" />
     </action>
   </nop>
 
